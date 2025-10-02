@@ -43,6 +43,7 @@ A full-stack food delivery application built with React,Node.js, Redux and Tailw
 **Frontend:**
 - React.js
 - React Router (for navigation)
+- -Redux (Global State Management)
 - Tailwind CSS (Responsive Design)
 - Parcel (Bundler)
 
@@ -338,9 +339,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Support
 
 For support:
-- **Email:** support@foodhub.com
-- **Phone:** +91 123 456 7890
-- **Address:** Mumbai Food Street, Bandra West, Mumbai 400050, India
+- **Email:** kamaan551@gmail.com
 
 Or open an issue in the repository.
 
